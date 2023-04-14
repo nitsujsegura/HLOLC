@@ -47,8 +47,9 @@
 					<img src="pics.png">
         	<h4>Welcome to His Little One's Learning Center</h4><br>
 					<p><strong>"NURTURING KIDS OF THE KING"</strong></p>
-					<div class="d-grid gap-2 col-2 mx-auto">
-					
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLSeyY7uR2phLA993BF8Zj81zYOuWZtCcHXc78SfWzQDNzeDudQ/viewform" target=" ">
+					<button type="submit" class="btn btn-success btn btn-lg">Join Us</button> </a>
+					<div class="d-grid gap-2 col-6 mx-auto">
 					</div>
         </section>
 		</div>
